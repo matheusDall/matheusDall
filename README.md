@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Buon Giorno, como andas?</h1><br><br>
+  <h1>Buon Giorno, como andas?</h1>
   
   
 
@@ -22,6 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusDall&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+
 
 
 
