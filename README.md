@@ -12,7 +12,7 @@
 
   <h2>Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
   <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h3>
-  <h2>Atualmente tenho conhecimento das seguintes linguagens de programação/marcação</h2>
+  <h2>Atualmente tenho conhecimento das seguintes linguagens de programação/marcação: </h2>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
