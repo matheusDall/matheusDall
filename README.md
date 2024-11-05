@@ -8,7 +8,7 @@
 
 </div>
 
-###
+
 
   <h2>Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
   <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h3>
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <h3>Link para minhas redes sociais: </h3>
@@ -36,9 +36,9 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 
 </div>
-###
+
 
 <br clear="both">
 
 <img src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif" />
-###
+
