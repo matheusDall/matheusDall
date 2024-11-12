@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Buon Giorno, como andas?</h1>
-  <h2>Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
+  <h2>Pode me chamar de Dalmaso e sou um aspirante a programador</h2>
   <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h3>
   <h2>Atualmente tenho conhecimento das seguintes linguagens de programação/marcação: </h2>
 
