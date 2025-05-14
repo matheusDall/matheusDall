@@ -3,10 +3,10 @@
   <h2>Pode me chamar de Dalmaso e sou um aspirante a programador</h2>
   <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h3>
   <h2>Atualmente tenho conhecimento das seguintes linguagens de programação/marcação: </h2>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusDall&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-    <img width="12" />
-  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusDall&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img width="12" />
+  <h3></h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
